@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EineNachtImMai
-- 🌱 I’m currently learning the tauri framework (amongst others)
-- 📫 How to reach me: please don't lol
+- 🌱 I’m currently learning the tauri framework (among other things)
 - 😄 Pronouns: he/him
 <!--- 😄 Pronouns: whatever you want
 - 📫 How to reach me: please don't lol-->
