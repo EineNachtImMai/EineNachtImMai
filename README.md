@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EineNachtImMai ! I'm a student.
-- 🌱 I’m currently learning the tauri framework (among other things)
+- 🌱 I’m currently learning Rust and the tauri framework
 - 😄 Pronouns: he/him
 <!--- 😄 Pronouns: whatever you want
 - 📫 How to reach me: please don't lol-->
