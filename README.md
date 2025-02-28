@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EineNachtImMai
+- 👋 Hi, I’m @EineNachtImMai ! I'm a student.
 - 🌱 I’m currently learning the tauri framework (among other things)
 - 😄 Pronouns: he/him
 <!--- 😄 Pronouns: whatever you want
